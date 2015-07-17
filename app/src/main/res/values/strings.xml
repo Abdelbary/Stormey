@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stormey</string>
+
+
+    <string name="Error_Title">oops! something went wrong !</string>
+    <string name="errorMessageBody">Please try again</string>
+    <string name="errorButtonMessage">OK</string>
+    <string name="Network_unavailable_Message">Network is not unavailable!</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="noDailyForcastData">There is no data to display</string>
+    <string name="title_activity_hourly_forcast">HourlyForcastActivity</string>
+</resources>
